@@ -22,7 +22,7 @@ final class RMService {
     /// - Parameters:
     ///   - request: Request Instance
     ///   - completion: Callback with data or error
-    public func execute(_ request: RMRequest, completion: @escaping () -> void) {
+    public func execute(_ request: RMRequest, completion: @escaping () -> Void) {
         
     }
     
